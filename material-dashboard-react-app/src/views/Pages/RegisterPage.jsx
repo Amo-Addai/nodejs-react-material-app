@@ -201,7 +201,7 @@ class RegisterPage extends React.Component {
                     }
                     label={
                       <span>
-                        I agree with the <a href="#pablo">Privacy Policy</a>.
+                        I agree with the <a href="#auto">Privacy Policy</a>.
                       </span>
                     }
                   />
