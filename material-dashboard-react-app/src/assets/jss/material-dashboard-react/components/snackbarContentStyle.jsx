@@ -122,7 +122,7 @@ const snackbarContentStyle = {
     paddingLeft: "50px",
     display: "block"
   },
-  actionRTL: {
+  action: {
     marginLeft: "-8px",
     marginRight: "auto"
   }

@@ -12,24 +12,21 @@ const dashboardRoutes = [
   {
     path: "/dashboard",
     name: "Dashboard",
-    rtlName: "لوحة القيادة",
-    icon: Dashboard,
+        icon: Dashboard,
     component: DashboardPage,
     layout: "/admin"
   },
   {
     path: "/login-page",
     name: "Login Page",
-    rtlName: "پشتیبانی از راست به چپ",
-    icon: Login,
+        icon: Login,
     component: LoginPage,
     layout: "/auth"
   },
   {
     path: "/register-page",
     name: "Register Page",
-    rtlName: "پشتیبانی از راست به چپ",
-    icon: Register,
+        icon: Register,
     component: RegisterPage,
     layout: "/auth"
   }
