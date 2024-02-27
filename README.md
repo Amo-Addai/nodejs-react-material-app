@@ -1,4 +1,4 @@
-# [Material Dashboard React Nodejs](#)
+# [Material Dashboard - Nodejs - React](#)
 <!-- (https://www.AUTO.com/live/nodejs-react-material-app) -->
 
 Full-stack platform, with a **Node.js - Express** Backend API, and an **React - Material UI** Frontend Dashboard app, managing data within a **Mongo DB** database. Comes with a flexible architecture across a variety of devices, operating systems, and databases. 
