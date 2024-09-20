@@ -3,8 +3,8 @@ services:
   postgres:
     image: postgres
     environment:
-      POSTGRES_USER: 'automan'
-      POSTGRES_PASSWORD: 'AUTO95!'
+      POSTGRES_USER: 'root'
+      POSTGRES_PASSWORD: 'pass'
     ports:
       - 5433:5432
     volumes:
