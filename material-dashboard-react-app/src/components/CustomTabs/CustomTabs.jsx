@@ -39,6 +39,8 @@ class CustomTabs extends React.Component {
           {title !== undefined ? (
             <div className={cardTitle}>{title}</div>
           ) : null}
+          {/* todo: shorthand */}
+          {/* {!!title && <div className={cardTitle}>{title}</div>} */}
           <Tabs
             value={this.state.value}
             onChange={this.handleChange}

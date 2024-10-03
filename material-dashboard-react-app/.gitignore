@@ -19,6 +19,7 @@
 .env.production.local
 
 # misc
+.DS_STORE
 .DS_Store
 
 # Logs
@@ -36,5 +37,6 @@ __MACOSX
 *.swo
 
 # OS files
+.DS_STORE
 .DS_Store
 Thumbs.db

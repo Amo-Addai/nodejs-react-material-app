@@ -37,5 +37,6 @@ tmp/
 out/
 
 # OS files
+.DS_STORE
 .DS_Store
 Thumbs.db
