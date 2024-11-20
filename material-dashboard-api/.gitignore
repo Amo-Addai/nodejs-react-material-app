@@ -22,6 +22,7 @@ yarn-error.log*
 
 # IDE and editor directories
 .vscode/
+.idea/
 .metals/
 .scala-build/
 .history/
